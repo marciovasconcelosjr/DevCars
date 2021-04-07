@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\junin\\OneDrive\\Documentos\\Code\\DevCars\\DevCars.API\\DevCars.API.csproj": {}
+    "C:\\Users\\junin\\source\\repos\\marciovasconcelosjr\\DevCars\\DevCars.API\\DevCars.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\junin\\OneDrive\\Documentos\\Code\\DevCars\\DevCars.API\\DevCars.API.csproj": {
+    "C:\\Users\\junin\\source\\repos\\marciovasconcelosjr\\DevCars\\DevCars.API\\DevCars.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\junin\\OneDrive\\Documentos\\Code\\DevCars\\DevCars.API\\DevCars.API.csproj",
+        "projectUniqueName": "C:\\Users\\junin\\source\\repos\\marciovasconcelosjr\\DevCars\\DevCars.API\\DevCars.API.csproj",
         "projectName": "DevCars.API",
-        "projectPath": "C:\\Users\\junin\\OneDrive\\Documentos\\Code\\DevCars\\DevCars.API\\DevCars.API.csproj",
+        "projectPath": "C:\\Users\\junin\\source\\repos\\marciovasconcelosjr\\DevCars\\DevCars.API\\DevCars.API.csproj",
         "packagesPath": "C:\\Users\\junin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\junin\\OneDrive\\Documentos\\Code\\DevCars\\DevCars.API\\obj\\",
+        "outputPath": "C:\\Users\\junin\\source\\repos\\marciovasconcelosjr\\DevCars\\DevCars.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\junin\\AppData\\Roaming\\NuGet\\NuGet.Config",
